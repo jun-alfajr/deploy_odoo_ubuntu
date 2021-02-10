@@ -1,5 +1,6 @@
 # deploy_odoo_ubuntu
-Sebelum Mulai
+
+**Sebelum Mulai**
 
 Login ke mesin Ubuntu Anda sebagai user sudo dan perbarui sistem ke paket terbaru:
 
